@@ -1,3 +1,4 @@
 Gitの練習を始めていきます。
 ファイルの削除を学びました。
 Git Status
+GIT diff
